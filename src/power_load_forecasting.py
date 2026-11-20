@@ -185,3 +185,4 @@ plt.savefig("visuals/shap_load_drivers.png", dpi=300)
 plt.close()
 
 print("[SUCCESS] Generated telemetry data, forecast CSV, and 3 diagnostic charts in 'visuals/'!")
+EOF
